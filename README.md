@@ -19,8 +19,13 @@ This project analyzes business data for **Adventure Works Cycles**, a fictional 
 ## 📂 Project Structure
 Adventure-Works-Cycles-Project/
 │
+
 ├── PowerBI_Dashboard/ → Power BI Reports (.pbix)
+
 ├── Excel_Analysis/ → Excel-based analysis & charts
+
 ├── SQL_Scripts/ → SQL queries for data extraction
+
 ├── Documentation/ → Report, screenshots, and project summary
+
 └── README.md → Project overview
