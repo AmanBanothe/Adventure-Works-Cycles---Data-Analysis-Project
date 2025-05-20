@@ -88,7 +88,7 @@ Adventure Works wants to:
 - [🔗 Power BI Dashboard](https://drive.google.com/file/d/19Dqvrzb4sMMsjb1NVv2xxn3h2lG9DRVa/view?usp=sharing)
 - [🔗 Power BI Dashboard](https://drive.google.com/file/d/1z0wplCsTI6quc6E50VTt2SA9swf1HrZ5/view?usp=sharing)
 - [🔗 Tableau Visualization](https://drive.google.com/file/d/1SodBpvBu4fprwZuapoKwYJQ10lmntn2Q/view?usp=sharing)
-- [🔗 Tableau Visualization]((https://drive.google.com/file/d/1ONiOBRNFoodTF5hafLv4WSuGCVZ04nfY/view?usp=sharing)
+- [🔗 Tableau Visualization](https://drive.google.com/file/d/1ONiOBRNFoodTF5hafLv4WSuGCVZ04nfY/view?usp=sharing)
 
 ---
 
